@@ -11,8 +11,8 @@ android {
         applicationId = "com.andrewshulgin.powernotifier"
         minSdk = 14
         targetSdk = 34
-        versionCode = 202407080
-        versionName = "0.1.0"
+        versionCode = 202407120
+        versionName = "0.1.1"
     }
 
     buildTypes {
